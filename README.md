@@ -1,0 +1,2 @@
+# OTA Releases
+This repository contains the backend for the [Updater](https://github.com/LineageOS/android_packages_apps_Updater) app, so that you are notified on your devices whenever the new update comes out. It also makes for an easier installation. If you are new to this, make sure to follow [the instructions posted on XDA](https://xdaforums.com/t/android-11-r-lineageos-18-1-for-lg-g3-unofficial.4205475/#post-84140255).
