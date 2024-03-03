@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "datetime": 1709456925,
+            "filename": "lineage-18.1-20240303-UNOFFICIAL-d850.zip",
+            "id": "b8ecc76a1ed91de0c4e42afda0e73a45d98983c4dd7aea1d68c6e9e4b2969db6",
+            "romtype": "UNOFFICIAL",
+            "size": 522215135,
+            "url": "https://github.com/itsHardStyl3r/ota/releases/download/lg-g3-lineage-18.1-20240303/lineage-18.1-20240303-UNOFFICIAL-d850.zip",
+            "version": "18.1"
+        }
+    ]
+}
